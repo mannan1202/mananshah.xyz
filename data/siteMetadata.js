@@ -11,10 +11,9 @@ const siteMetadata = {
   siteLogo: '',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: '',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  github: 'https://github.com/mannan1202',
+  twitter: 'https://twitter.com/cosmic_vyakti',
+  linkedin: 'https://www.linkedin.com/in/mananbshah/',
   locale: 'en-UK',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
