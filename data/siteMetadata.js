@@ -6,8 +6,8 @@ const siteMetadata = {
   description: `A saga for human on code, pixels, and life, just like 'any' in Typescript`,
   language: 'en-uk',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://mananshah.xyz',
+  siteRepo: 'https://github.com/mannan1202/mananshah.xyz',
   siteLogo: '',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: '',
