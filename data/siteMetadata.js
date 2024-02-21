@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Code, Coffee, and Cosmos',
+  title: 'Writings by Manan',
   author: 'Manan Shah',
-  headerTitle: 'Code, Coffee, and Cosmos',
-  description: `A personal blog on a web of code, pixels, and life, just like 'any' in Typescript`,
+  headerTitle: 'Writings by Manan',
+  description: `A saga for human on code, pixels, and life, just like 'any' in Typescript`,
   language: 'en-uk',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
