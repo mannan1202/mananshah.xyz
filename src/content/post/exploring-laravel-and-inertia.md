@@ -9,7 +9,7 @@ It's always fascinating to try out new technology stacks that promise an amazing
 
 Balancing a full time job and family life makes it challenging to find time to explore the promising features of new technologies fully.
 
-However, a recent video on [youTube video](https://www.youtube.com/watch?v=hWFP9DeB7KA) by [Andrew](https://x.com/aschmelyun) about building a pizza tracker using Laravel and Inertia resonated with me instantly. So couldn't wait to try it out as soon as possible.
+However, a recent video on [youtube video](https://www.youtube.com/watch?v=hWFP9DeB7KA) by [Andrew](https://x.com/aschmelyun) about building a pizza tracker using Laravel and Inertia resonated with me instantly. So couldn't wait to try it out as soon as possible.
 
 I am well-acquainted with Laravel on its priniciples of convention over choice, having used since version 5.0 and often work on side projects involving it. Currently focusing more on frontend development, I still feel at home using Laravel for backend programming as well.
 
